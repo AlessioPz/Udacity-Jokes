@@ -1,0 +1,3 @@
+<resources>
+    <string name="msg_connection_error">Communication error, please check your connection.</string>
+</resources>
